@@ -26,7 +26,8 @@ This API project is built using Python, Flask and SQL. It provides a simple yet 
    ```bash
    git clone https://github.com/UB2002/Backend-Flask-pytest.git
 2. **Navigate to the project directory and Install dependencies:**
-   ```bash
+
+    ```bash
    pip install -r requirements.txt
    //run this command to install required libraries
 ## usage
@@ -43,6 +44,7 @@ This API project is built using Python, Flask and SQL. It provides a simple yet 
     flask db upgrade
 
 3.**Runt tests**
+    
     ```bash
     pytest
     //to get covrage report

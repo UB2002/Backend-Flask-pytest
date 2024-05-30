@@ -3,12 +3,18 @@
 
 ## Table of Contents
 
+- [Test Coverage](#coverage)
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Test Coverage](#coverage)
-  
+
+## coverage
+ 
+**This is the coverage report for the simple porject that i created**
+
+![Screenshot (41)](https://github.com/UB2002/Backend-Flask-pytest/assets/114668552/f3ef4955-46cd-48cb-8d3e-625f9cb871c3)
+
 ## Description
 
 This API project is built using Python, Flask and SQL. It provides a simple yet powerful for posting and update, delete data within your local system. It can be used as a backend service for various applications.
@@ -51,9 +57,3 @@ This API project is built using Python, Flask and SQL. It provides a simple yet 
     //to get covrage report
     pytest --cov
     
-## coverage
- 
-**This is the coverage report for the simple porject that i created**
-
-![Screenshot (41)](https://github.com/UB2002/Backend-Flask-pytest/assets/114668552/f3ef4955-46cd-48cb-8d3e-625f9cb871c3)
-

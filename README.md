@@ -7,6 +7,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Test Coverage](#coverage)
   
 ## Description
 
@@ -43,10 +44,16 @@ This API project is built using Python, Flask and SQL. It provides a simple yet 
     flask db migrate
     flask db upgrade
 
-3.**Runt tests**
+ 3.**Runt tests**
     
     ```bash
     pytest
     //to get covrage report
     pytest --cov
     
+## coverage
+ 
+**This is the coverage report for the simple porject that i created**
+
+![Screenshot (41)](https://github.com/UB2002/Backend-Flask-pytest/assets/114668552/f3ef4955-46cd-48cb-8d3e-625f9cb871c3)
+

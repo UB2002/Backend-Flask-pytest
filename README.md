@@ -1,5 +1,5 @@
-# This is a simple Flask based Backend Application
-
+# This is a simple Flask based Backend Application which performs CRUD operations 
+ 
 
 ## Table of Contents
 

@@ -45,14 +45,14 @@ This API project is built using Python, Flask and SQL. It provides a simple yet 
  
  2.**database setup**
 
-    ```bash
+    
     flask db init
     flask db migrate
     flask db upgrade
 
  3.**Runt tests**
     
-    ```bash
+    
     pytest
     //to get covrage report
     pytest --cov
